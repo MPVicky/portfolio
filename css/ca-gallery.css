@@ -91,7 +91,7 @@ body {
 .offcanvas-aside {
   position: fixed;
   height: 100%;
-  background: linear-gradient(to top, #32053d, #cf587e);
+  background: linear-gradient(to top, #320450, #fcc30a);
   width: 80vw;
   right: -80vw;
   z-index: 10;
@@ -211,7 +211,7 @@ body {
 header.masthead {
   text-align: center;
   color: white;
-  background-image: url("../img/background1.jpg");
+  background-image: url("../img/background2.jpg");
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center center;
@@ -806,4 +806,8 @@ fieldset[disabled] .btn-xl:hover {
 .container {
   padding-right: 0;
   padding-left: 0;
+}
+
+.rounded-circle {
+  object-fit: contain;
 }
