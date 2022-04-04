@@ -91,7 +91,7 @@ body {
 .offcanvas-aside {
   position: fixed;
   height: 100%;
-  background: linear-gradient(to top, #320450, #fcc30a);
+  background: linear-gradient(to top, #382413, #fdf368);
   width: 80vw;
   right: -80vw;
   z-index: 10;
